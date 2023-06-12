@@ -159,3 +159,6 @@ img {
   min-height: 200px;
   gap: 10px;
 }
+.greeting {
+  text-align: center;
+}
